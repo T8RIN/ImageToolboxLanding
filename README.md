@@ -1,3 +1,4 @@
 # ImageToolboxLanding
-https://t8rin.github.io/ImageToolboxLanding/
+https://image-toolbox.vercel.app/
+
 This site is currently under development 
